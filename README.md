@@ -65,10 +65,11 @@ Output:
 
 ## Technologies Used
 
-* HTML
-* CSS
-* JavaScript
-* Map API
+- HTML5
+- CSS3
+- JavaScript
+- OpenStreetMap API
+- Leaflet.js (for map visualization)
 
 ---
 
